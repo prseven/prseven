@@ -38,4 +38,5 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prseven&show_icons=true&locale=en&layout=compact" alt="prseven" /></p>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=prseven&theme=dark&date_format=j%20M%5B%20Y%5D&exclude_days=Sun" alt="GitHub Streak" /></a>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/36594527/208378907-aa4a028f-5546-4ac4-9245-140a80bec975.gif"><img src="https://user-images.githubusercontent.com/36594527/208378907-aa4a028f-5546-4ac4-9245-140a80bec975.gif" width="700" alt="My GitHub Skyline which is my GitHub Contribution graph in 3D" data-animated-image="" style="max-width: 100%;"></a></p>
+<!-- <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/36594527/208378907-aa4a028f-5546-4ac4-9245-140a80bec975.gif"><img src="https://user-images.githubusercontent.com/36594527/208378907-aa4a028f-5546-4ac4-9245-140a80bec975.gif" width="700" alt="My GitHub Skyline which is my GitHub Contribution graph in 3D" data-animated-image="" style="max-width: 100%;"></a></p> -->
+
