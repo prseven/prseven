@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **AppSmith**
 
-- 💬 Ask me about **react, spring framework**
-
 - 📫 How to reach me **praveenvraju19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
